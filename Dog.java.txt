@@ -1,0 +1,9 @@
+public class Dog{
+    public String type;
+    public String name;
+
+    public Dog (String theType, String theName){
+        type = theType;
+        name = theName;
+    }
+}
